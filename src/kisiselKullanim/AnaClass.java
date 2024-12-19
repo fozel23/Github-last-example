@@ -1,3 +1,5 @@
+package kisiselKullanim;
+
 import java.util.Scanner;
 
 public class AnaClass {
